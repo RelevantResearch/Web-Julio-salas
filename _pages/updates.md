@@ -1,6 +1,6 @@
 ---
 layout: events
-title: Updates
+title: 
 permalink: /updates
 subtitle: Updates
 profile:
